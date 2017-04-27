@@ -17,5 +17,10 @@ def function joke():
     print ('joke')
 >>>>>>> 66d20784240c26916fa570158039ec010862fa60
 
+<<<<<<< Updated upstream
 def shout ():
     return ('krzyk')
+=======
+def shout():
+    print ('Krzyk!')
+>>>>>>> Stashed changes
